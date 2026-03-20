@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "別世界 （Instrumental）",
+  "base_artist": "天音かなた",
+  "createdAt": "2026-03-20T10:13:46.203138Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "別世界",
+      "artist": "Kitri",
+      "has_synced": false,
+      "path": "select/01_別世界_Kitri.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "別世界",
+      "artist": "Naoko Kawai",
+      "has_synced": false,
+      "path": "select/02_別世界_Naoko_Kawai.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "別世界",
+      "artist": "河合奈保子",
+      "has_synced": false,
+      "path": "select/03_別世界_河合奈保子.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "別世界",
+      "artist": "E-girls",
+      "has_synced": true,
+      "path": "select/04_別世界_E-girls.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "別世界",
+      "artist": "天音かなた",
+      "has_synced": false,
+      "path": "select/pl_01_別世界_天音かなた.txt"
+    }
+  ]
+}
